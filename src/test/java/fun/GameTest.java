@@ -9,7 +9,7 @@ import org.junit.Test;
 
 public class GameTest {
 
-	//@Test
+	@Test
 	public void testGet()
 	{
 		baseURI="http://localhost:3000/";
